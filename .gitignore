@@ -1,4 +1,6 @@
-*.out
 .DS_Store
 main.cpp
+*.out
 *.txt
+*.sh
+discreteFourier
