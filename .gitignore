@@ -4,3 +4,4 @@ main.cpp
 *.txt
 *.sh
 discreteFourier
+point_generator*
