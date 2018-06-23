@@ -5,3 +5,4 @@ main.cpp
 *.sh
 discreteFourier
 point_generator*
+original_graph*
