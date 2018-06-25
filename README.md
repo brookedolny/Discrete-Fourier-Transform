@@ -27,7 +27,7 @@ The output of the DFT generates the following graph:
 The real part of the complex output is shown in blue, and the imaginary part is in orange. Recall that complex numbers
 can be represented in the following form:
 ```
-z = cos(x) + i sin(x)
+z = r(cos(x) + i sin(x))
 ```
 The imaginary part of the number represents the appropriate sine functions that make up the original frequency, 
 and the real part represents the appropriate cosine functions.
